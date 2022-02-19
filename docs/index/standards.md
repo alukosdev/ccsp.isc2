@@ -32,7 +32,7 @@ This page contains accurate information but may be missing links to specific sta
 | ISO/IEC 27042:2015 | Forensics | Information technology - Security techniques - Guidelines for the analysis and interpretation of digital evidence |
 | ISO/IEC 27043:2015 | Forensics | Information technology - Security techniques - Incident investigation principles and processes |
 | [ISO/IEC 27050:2019](../standards/forensics/iso-iec-27050-2019.md) | eDiscovery | Information technology - Electronic discovery |
-| [ISO/IEC 28000:2007](../standards/supply-chain-management/iso-iec-28000-2007.md) | Supply Chain | Specification for security management systems for the supply chain |
+| [ISO/IEC 28000:2007](../standards/supply-chain-management/iso-28000-2007.md) | Supply Chain | Specification for security management systems for the supply chain |
 | [ISO 31000:2009](../standards/risk-management/iso-31000-2018.md) | Risk | Risk management |
 
 ## NIST
