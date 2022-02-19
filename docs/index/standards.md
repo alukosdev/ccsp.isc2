@@ -39,17 +39,17 @@ This page contains accurate information but may be missing links to specific sta
 
 | Publication | Category | Description |
 | :--- | :--- | :--- |
-| NIST SP 500-292* | Cloud Computing | Cloud Computing Reference Architecture |
-| NIST SP 500-293* | Cloud Computing | Cloud Computing Technology Roadmap |
+| NIST SP 500-292 | Cloud Computing | Cloud Computing Reference Architecture |
+| NIST SP 500-293 | Cloud Computing | Cloud Computing Technology Roadmap |
 | NIST SP 800-12 Rev. 1 |  | An Introduction to Information Security |
 | NIST SP 800-30 | Risk | Guide for Conducting Risk Assessments |
-| NIST SP 800-37* | Risk | Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy |
+| [NIST SP 800-37](../standards/risk-management/nist-sp-800-37.md) | Risk | Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy |
 | NIST SP 800-40 Rev. 3 |  | Guide to Enterprise Patch Management Technologies |
-| NIST SP 800-53* |  | Security and Privacy Controls for Federal Information Systems and Organizations |
+| [NIST SP 800-53](../standards/security-management-and-controls/nist-sp-800-53.md) |  | Security and Privacy Controls for Federal Information Systems and Organizations |
 | NIST SP 800-63 | Forensics | Digital Identity Guidelines |
 | NIST SP 800-92 |  | Guide to Computer Security Log Management |
 | NIST SP 800-122 | Breach Reporting | Guide to Protecting the Confidentiality of Personally Identifiable Information \(PII\) |
 | NIST SP 800-123 |  | Guide to General Server Security |
-| NIST SP 800-145* | Cloud Computing | The NIST Definition of Cloud Computing |
-| NIST SP 800-146* |  | Cloud Computing Synopsis and Recommendations |
+| [NIST SP 800-145](../standards/cloud-computing/nist-sp-800-145.md) | Cloud Computing | The NIST Definition of Cloud Computing |
+| [NIST SP 800-146](../standards/cloud-computing/nist-sp-800-146.md) |  | Cloud Computing Synopsis and Recommendations |
 | NIST SP 800-161 | Supply Chain | Supply Chain Risk Management Practices for Federal Information Systems and Organizations |
