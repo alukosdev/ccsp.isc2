@@ -12,7 +12,7 @@ This page contains accurate information but may be missing links to specific sta
 
 | Standard | Category | Description |
 | :--- | :--- | :--- |
-| [ISO/IEC 15408:2009](https://ccsp.alukos.com/standards/auditing-and-assurance/cc) | Common Criteria | Information technology - Security techniques - Evaluation criteria for IT security |
+| [ISO/IEC 15408:2009](../standards/auditing-and-assurance/iso-iec-15408-2009.md) | Common Criteria | Information technology - Security techniques - Evaluation criteria for IT security |
 | ISO/IEC 17788:2014 | Cloud Computing | Information technology - Cloud computing - Overview and vocabulary |
 | [ISO/IEC 17789:2014](https://ccsp.alukos.com/standards/untitled-1/iso-iec-17789-2014) | Cloud Computing | Information technology - Cloud computing - Reference architecture |
 | ISO/IEC 19086:2016 | SLAs | Information technology - Cloud computing - Service level agreement (SLA) framework |
