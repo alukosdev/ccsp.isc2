@@ -77,7 +77,7 @@ Used to duplicate processing capability at a secondary location. The secondary l
 
 A measure of how long it would take for an interruption in service to kill an organization. For example, if a company would fail because it had to halt operations for a week, then it's MAD is one week.
 
-:::warning Examworthy
+:::warning Important
 MAD is measured in **time**.
 :::
 
@@ -87,7 +87,7 @@ The RTO indicates the amount of system downtime defining the total time of the d
 
 This is the goal for recovery of operational capability after an interruption in service \(i.e., the amount of time it takes to recover\). For example, a company might have an MAD of one week, while the company's BCDR plan includes and supports an RTO of six days.
 
-:::warning Examworthy
+:::warning Important
 RTO is measured in **time**. The RTO must be lower than the MAD.
 :::
 
@@ -99,7 +99,7 @@ The point in time at which you would like to restore to. For instance, if an org
 
 **Data replication strategies will most affect this metric**, as the choice of strategy will determine how much recent data is available for recovery purposes.
 
-:::warning Examworthy
+:::warning Important
 RPO is measured in **time**.
 :::
 
@@ -121,7 +121,7 @@ Works with a local service to store or archive data to secondary storage using a
 
 The time necessary to *very* restoration of systems once they have been returned to operation.
 
-:::warning Examworthy
+:::warning Important
 In DR terms, RTO + WRT &lt; MTD.
 :::
 

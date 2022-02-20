@@ -42,7 +42,7 @@ The SOC 2 is an examination of the design and operating effectiveness of control
 
 Typically, SOC 2 reports are only provided to *customers* and require an NDA be signed.
 
-:::danger Examworthy
+:::danger Important
 A cloud provider intending to prove its trustworthiness would look to an SOC 2 report as the artifact that demonstrated it.
 :::
 
@@ -50,7 +50,7 @@ A cloud provider intending to prove its trustworthiness would look to an SOC 2 r
 
 SOC 2 Type 1 reports only reviews the *design* of controls, not how they are implemented and maintained, or their function.
 
-:::danger Examworthy
+:::danger Important
 A SOC 2 Type 1 report presents an auditor's opinion at a *specific date.* It is not extremely useful for determining the security and trust of an organization.
 :::
 
@@ -60,7 +60,7 @@ SOC 2 Type 2 reports are a thorough review of the target's controls, including h
 
 A type 2 report presents an auditor's opinion over a declared period, generally between 6 months and 1 year.
 
-:::danger Examworthy
+:::danger Important
 Unlike the SOC 2 Type 1, the SOC 2 Type 2 is extremely useful for determining the security and trust of an organization. It provides a true assessment of an organization's security posture.
 :::
 
