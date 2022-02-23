@@ -8,16 +8,18 @@
 :root {
   --ifm-color-primary: #006852;
   --ifm-color-secondary: #ff60ea;
-  --ifm-color-success: #00a400;
-  --ifm-color-info: #54c7ec;
-  --ifm-color-warning: #ffba00;
-  --ifm-color-danger: #fa383e;
+  --ifm-color-success: #aadbaa;
+  --ifm-color-info: #3b4572;
+  --ifm-color-warning: #ff6600;
+  --ifm-color-danger: #ff42f6;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
+  --ifm-background-color: #1e2125;
+  --ifm-background-surface-color: #121212;
   --ifm-code-font-size: 95%;
 }
 
@@ -30,8 +32,6 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
-  --ifm-background-color: #1e2125;
-  --ifm-background-surface-color: #121212;
 }
 
 .docusaurus-highlight-code-line {
