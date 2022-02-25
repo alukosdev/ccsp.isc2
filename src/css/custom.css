@@ -32,7 +32,11 @@ html[data-theme='dark'] {
   --ifm-background-surface-color: #07090f;
   --ifm-color-gray-100: #516399;
   --ifm-hover-overlay: #01030b;
-  --ifm-heading-color: #232b42;
+  /* --ifm-heading-color: #232b42; this also messes with admonition headings*/
+  --ifm-color-warning-contrast-background: #ff62dd;
+  --ifm-color-warning-dark: #ff0000;
+  --ifm-color-info-contrast-background: #182340;
+  --ifm-color-info-dark: #2144b3;
 }
 
 .docusaurus-highlight-code-line {
