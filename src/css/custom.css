@@ -30,9 +30,9 @@ html[data-theme='dark'] {
   --ifm-toc-border-color: #1b1f2c;
   --ifm-background-color: #07090f;
   --ifm-background-surface-color: #07090f;
-  --ifm-color-gray-100: #232b42;
+  --ifm-color-gray-100: #516399;
   --ifm-hover-overlay: #01030b;
-  --ifm-heading-color: #516399;
+  --ifm-heading-color: #232b42;
 }
 
 .docusaurus-highlight-code-line {
