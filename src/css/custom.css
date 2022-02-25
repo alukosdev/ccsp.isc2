@@ -26,9 +26,9 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
-  --ifm-code-font-size: 90%; /*95%;*/
-  --ifm-toc-border-color: #ff0000;
-  --ifm-background-color: #18191a;
+  --ifm-code-font-size: 50%; /*95%;*/
+  --ifm-toc-border-color: #2a2e38;
+  --ifm-background-color: #07090F;
   --ifm-background-surface-color: #242526;
 }
 
