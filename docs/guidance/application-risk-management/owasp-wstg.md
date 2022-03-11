@@ -2,10 +2,6 @@
 
 Web Security Testing Guide v4.1
 
-:::caution Under Construction
-This page is incorrectly formatted and incomplete.
-:::
-
 ## Testing Methods
 
 ### 1. Information Gathering
