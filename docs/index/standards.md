@@ -4,10 +4,6 @@ sidebar_position: 3
 
 # Standards
 
-:::caution
-This page contains accurate information but may be missing links to specific standards or incorrectly formatted in areas.
-:::
-
 ## ISO/IEC
 
 | Standard | Category | Description |

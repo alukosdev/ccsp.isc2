@@ -4,10 +4,6 @@ sidebar*position: 2
 
 # Terminology
 
-:::caution
-This page contains accurate information but may include redundant words or may omit words that should be included.
-:::
-
 ## A-C
 
 ### B
